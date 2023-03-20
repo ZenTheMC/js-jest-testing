@@ -1,0 +1,23 @@
+{
+  "name": "js-jest-testing",
+  "version": "1.0.0",
+  "description": "A mini-project from ODIN to get comfortable with testing, using jest",
+  "main": "jest-testing.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZenTheMC/js-jest-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZenTheMC/js-jest-testing/issues"
+  },
+  "homepage": "https://github.com/ZenTheMC/js-jest-testing#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
